@@ -1,6 +1,6 @@
-# Bootstrap-4.0.0-beta.2-Starter-Pack
+# Bootstrap 4.0.0-beta.2-Starter-Pack
 
-Includes complete Bootstrap-4.0.0-beta.2 dev environment with gulp and sass
+Includes complete Bootstrap 4.0.0-beta.2 dev environment with gulp and sass
 
 ### Version
 
